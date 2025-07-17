@@ -9,3 +9,4 @@ thumbnail: "/assets/img/La-Mancha.jpg"
 ---
 # BERT
 123
+![iamge](/images/bert.png)
